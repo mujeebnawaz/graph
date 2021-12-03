@@ -2,7 +2,7 @@
 An implementation of Graph using C++ for computational analysis of things like computational complexity theory or neural networks. 
 
 
-#Rationale: 
+###Rationale: 
 Main motivation for this project was to create an infrastructure for experimental purposes. 
 There exists a huge number of libraries which contains a far better implementation of the Graph, however, those fail to explain their architecture and justify the reason behind their architectural decisions. 
 
