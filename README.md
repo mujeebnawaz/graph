@@ -20,6 +20,6 @@ An initial architecture has been formed which uses builder design pattern to all
 Implementation of classes. 
 
 #Conceptual Class Diagram. 
-![My animated logo](/development/Graph.jpg)
+![My animated logo](development/Graph.jpg)
 
  
